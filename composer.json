@@ -1,5 +1,5 @@
 {
-    "name": "greenfieldtech-nirs/phpari",
+    "name": "vitux2/phpari",
     "type": "library",
     "description": "A PHP Class Library for Asterisk ARI",
     "keywords": ["Asterisk", "ARI", "VoIP", "REST", "PHP"],
