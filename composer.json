@@ -1,5 +1,6 @@
 {
     "name": "vitux2/phpari",
+    "version": "1.0.1",
     "type": "library",
     "description": "A PHP Class Library for Asterisk ARI",
     "keywords": ["Asterisk", "ARI", "VoIP", "REST", "PHP"],
