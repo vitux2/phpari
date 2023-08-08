@@ -17,7 +17,7 @@
         "php": ">=7.0.0",
         "educoder/pest": "1.0.0",
         "devristo/phpws": "dev-master",
-        "wyrihaximus/react-guzzle": "1.0.0"
+        "wyrihaximus/react-guzzle": ">=1.0.0"
     },
     "autoload": {
         "files": [
